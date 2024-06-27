@@ -205,6 +205,12 @@ h3 {
 
 .education {
   margin: 10px 0 5px 0;
+  
+}
+.flex{
+  display: flex;
+  justify-content: space-around;
+
 }
 
 .education_position {
@@ -215,6 +221,8 @@ h3 {
   color: #434455;
   margin-bottom: 14px;
   text-align: justify;
+  margin-bottom: 4px;
+  margin-top: 4px;
 }
 
 .education_pos {
@@ -248,7 +256,7 @@ h3 {
 .tech_skills,
 .soft_skills {
   margin-top: 10px;
-  margin-bottom: 10px;
+  /* margin-bottom: 10px; */
   /* margin-bottom: 40px; */
   /* text-align: center; */
 }
