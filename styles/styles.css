@@ -307,6 +307,7 @@ h3 {
 .tech_skills_item {
   color: rgb(10, 50, 10);
   margin-bottom: 14px;
+  list-style: none;
 }
 
 .tech_skills_text {
