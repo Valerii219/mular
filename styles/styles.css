@@ -340,3 +340,9 @@ h3 {
 .languages {
   margin-top: 20px;
 }
+
+.per{
+  display: flex;
+  justify-content: space-between;
+  
+}
