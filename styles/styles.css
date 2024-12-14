@@ -222,8 +222,8 @@ h3 {
   color: #434455;
   margin-bottom: 14px;
   text-align: justify;
-  margin-bottom: 4px;
-  margin-top: 4px;
+  margin-bottom: 0px;
+  margin-top: 0px;
 }
 
 .education_pos {
@@ -345,4 +345,20 @@ h3 {
   display: flex;
   justify-content: space-between;
   
+}
+.perE{
+  display: flex;
+  justify-content: space-between;
+  
+}
+h4{
+  margin: 0;
+}
+.newPer{
+  display:flex;
+  align-items: center;
+
+}
+.marg{
+  margin-left: 20px;
 }
