@@ -104,7 +104,7 @@ h3 {
   margin: 0;
 }
 .text {
-  font-size: 13px;
+  font-size: 16px;
   line-height: calc(16 / 14);
   font-weight: 500;
   text-align: left;
@@ -152,7 +152,7 @@ h3 {
   margin-bottom: 14px;
 }
 .work {
-  font-size: 12px;
+  font-size: 14px;
   line-height: calc(14 / 12);
   margin-left: 20px;
   margin-bottom: 10px;
@@ -334,7 +334,7 @@ h3 {
 .soft_skills_text {
   font-style: normal;
   font-weight: 400;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 16px;
 }
 .languages {
@@ -343,6 +343,7 @@ h3 {
 
 .per{
   display: flex;
+  align-items: center;
   justify-content: space-between;
   
 }
@@ -361,4 +362,8 @@ h4{
 }
 .marg{
   margin-left: 20px;
+}
+
+.new_one{
+margin-bottom: 20px;
 }
