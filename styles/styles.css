@@ -15,7 +15,7 @@ ol {
 .resume {
   display: flex;
   flex-direction: column;
-  max-width: 1200px;
+  max-width: 950px;
   margin: 0 auto;
 }
 /* 
@@ -42,7 +42,7 @@ ol {
   /* flex: 1; */
   background-color: #ffffff;
   /* box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1); */
-  padding: 10px;
+  padding: 20px;
   /* border-left: solid 2px black; */
 }
 
@@ -70,7 +70,7 @@ ol {
   border-bottom: solid 2px black;
   text-transform: uppercase;
   text-align: center;
-  margin: 7px 0 25px 0;
+  margin: 25px 0 25px 0;
 }
 
 /* projects styles */
@@ -221,7 +221,6 @@ h3 {
   line-height: 20px;
   color: #434455;
   margin-bottom: 14px;
-  text-align: justify;
   margin-bottom: 20px;
   margin-top: 0px;
 }
@@ -251,7 +250,7 @@ h3 {
   border-radius: 50%;
 }
 .contacts {
-  margin: 10px 0 0 0;
+  margin: 30px 0 30px 0;
 }
 
 .tech_skills,
@@ -366,4 +365,12 @@ h4{
 
 .new_one{
 margin-bottom: 20px;
+}
+
+
+.text_s {
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 400;
+  text-align: justify;
 }
